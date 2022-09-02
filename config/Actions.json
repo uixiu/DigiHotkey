@@ -986,5 +986,29 @@
     "Window"       : "",
     "Modifiers"     : "",
     "DigiHotkeys"   : [ ["SHIFT","LCONTROL","LALT","U"]  ]
+},
+{
+    "Enabled"       : "1",
+    "PassThrough"   : "0",
+    "GroupName"     : "Default",
+    "Macro"         : "{End}",
+    "Handler"       : "",
+    "Sound"         : "",
+    "Description"   : "",
+    "Window"       : "",
+    "Modifiers"     : "",
+    "DigiHotkeys"   : [ ["CONTROL","LWIN","RIGHT"]  ]
+},
+{
+    "Enabled"       : "1",
+    "PassThrough"   : "0",
+    "GroupName"     : "Default",
+    "Macro"         : "{Home}",
+    "Handler"       : "",
+    "Sound"         : "",
+    "Description"   : "",
+    "Window"       : "",
+    "Modifiers"     : "",
+    "DigiHotkeys"   : [ ["CONTROL","LWIN","LEFT"]  ]
 }
 ]

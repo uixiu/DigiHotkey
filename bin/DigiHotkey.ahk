@@ -109,10 +109,8 @@ main:
 
 
       SoundBeep 330, 150	
-      SoundBeep 1	, 10	
       SoundBeep 494 , 159	
-      SoundBeep 1	, 10	
-      SoundBeep 660	, 150	
+      SoundBeep 660, 150	
       
 
       _Logger.END( "main" )
