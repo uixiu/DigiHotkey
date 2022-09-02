@@ -1,0 +1,45 @@
+{
+	"actionGroups": {
+		"Caps+Num Lock": {
+			"enabled": 1
+		},
+		"Default": {
+			"enabled": 1
+		},
+		"Diacritics": {
+			"enabled": 1
+		},
+		"Key maps": {
+			"enabled": 1
+		},
+		"Lock": {
+			"enabled": 1
+		},
+		"Sound": {
+			"enabled": 1
+		},
+		"Tools": {
+			"enabled": 1
+		},
+		"Volume control": {
+			"enabled": 1
+		}
+	},
+	"beepOnInsomnia": 1,
+	"capsLockAlertEnabled": 1,
+	"capsLockBehaviour": "Free",
+	"configFile": "D:\\My\\dev\\AHK\\DigiHotkey\\config\\config.json",
+	"infoTipTimeoutSec": 2,
+	"insKeyEnabled": 1,
+	"insomniaPeriodSec": 30,
+	"languageName": "Fran\u00e7ais",
+	"notifyTipTimeoutSec": 2,
+	"numLockAlertEnabled": 1,
+	"numLockBehaviour": "Free",
+	"soundProfile": "Typewriter-Electric",
+	"timerMaxSnoozeCount": 5,
+	"timerNotifyTimeoutSec": 5,
+	"timerSnoozePeriodSec": 10,
+	"volume": 94.999998,
+	"volumeTipTimeoutSec": 2
+}

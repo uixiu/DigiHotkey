@@ -1,0 +1,20 @@
+[
+    {
+        "hotString"             : "btw",
+        "replacement"           : "by the way",
+        "caseSensitive"         : "1",
+        "requireEndingChar"     : "1",
+        "requireWholeWord"      : "0",
+        "handler"               : "",
+        "enabled"               : "0"
+    },
+    {
+        "hotString"             : "cad",
+        "replacement"           : "c'est à dire",
+        "caseSensitive"         : "1",
+        "requireEndingChar"     : "1",
+        "requireWholeWord"      : "0",
+        "handler"               : "",
+        "enabled"               : "1"
+    }
+]
